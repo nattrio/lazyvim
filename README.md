@@ -1,5 +1,7 @@
 # Nattrio LazyVim Template
 
+Before you start, make sure you have installed [neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md).
+
 ## Install
 
 Clone the repository and open neovim
