@@ -20,6 +20,8 @@ rm -rf ~/.config/nvim/.git
 
 ```shell
 # Linux / Macos (unix)
-rm -rf ~/.config/nvim
-rm -rf ~/.local/share/nvim
+rm -rf ~/.config/nvim \
+  ~/.local/share/nvim \
+  ~/.local/state/nvim \
+  ~/.cache/nvim
 ```
