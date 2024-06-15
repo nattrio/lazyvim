@@ -1,4 +1,23 @@
-# 💤 LazyVim
+# Nattrio LazyVim Template
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Install
+
+Clone the repository and open neovim
+
+```shell
+git clone https://github.com/nattrio/lazyvim ~/.config/nvim && nvim
+```
+
+(optional) Remove the git directory
+
+```shell
+rm -rf ~/.config/nvim/.git
+```
+
+## Uninstall
+
+```shell
+# Linux / Macos (unix)
+rm -rf ~/.config/nvim
+rm -rf ~/.local/share/nvim
+```
